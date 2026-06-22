@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Embeddings (generated files)
+embeddings/
+
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
