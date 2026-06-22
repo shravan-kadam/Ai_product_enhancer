@@ -1,6 +1,7 @@
-# AI Product Enhancer
+# AI Product Enhancer - E-commerce Product Listing Optimization
 
 AI Product Enhancer is an intelligent web application designed to improve product listings using Artificial Intelligence. It helps e-commerce sellers create better product titles, descriptions, and keywords for improved visibility and sales.
+
 
 ## 🚀 Features
 
