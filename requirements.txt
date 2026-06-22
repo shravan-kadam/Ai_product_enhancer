@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+Pillow
+torch
+torchvision
+open_clip_torch
+faiss-cpu
+scikit-learn
+opencv-python
+sentence-transformers
+tqdm
+jupyter
+ipykernel
+requests
